@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 8 also for conflict in rm
+=======
+is for conflict in lc installed
+>>>>>>> cfe68ad (file8 is to practice conflict concept)
