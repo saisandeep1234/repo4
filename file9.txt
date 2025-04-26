@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 sm issue
-=======
 in the lc of issue
->>>>>>> e509187 (file9 for issue)
