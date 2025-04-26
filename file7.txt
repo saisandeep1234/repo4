@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 7 is created for conflict
-=======
 7 is created for conflict in local
->>>>>>> f007c01 (file7 is new)
