@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 8 also for conflict in rm
-=======
 is for conflict in lc installed
->>>>>>> cfe68ad (file8 is to practice conflict concept)
-=======
-8 also for conflict in rm
->>>>>>> e509187 (file9 for issue)
